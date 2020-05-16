@@ -23,79 +23,20 @@
     <published>2020-05-16T04:49:06.000Z</published>
     <updated>2020-05-16T04:49:06.621Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/.io//20200516003232.jpg" alt></p><p><img src="/.io//20200516003257.jpg" alt></p><p><img src="/.io//20200516003303.jpg" alt></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://github.com/davyc0705/images/raw/master/20200516003232.jpg" alt></p><p><img src="https://github.com/davyc0705/images/raw/master/20200516003257.jpg" alt></p><p><img src="https://github.com/davyc0705/images/raw/master/20200516003303.jpg" alt></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;/.io//20200516003232.jpg&quot; alt&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/.io//20200516003257.jpg&quot; alt&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/.io//20200516003303.jpg&quot; alt&gt;&lt;
+        &lt;p&gt;&lt;img src=&quot;https://github.com/davyc0705/images/raw/master/20200516003232.jpg&quot; alt&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/davyc0705/images/ra
       
     
     </summary>
     
     
       <category term="Photograph" scheme="http://davyc0705.github.io/categories/Photograph/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>隔离安娜堡</title>
-    <link href="http://davyc0705.github.io/2020/05/16/20200514/"/>
-    <id>http://davyc0705.github.io/2020/05/16/20200514/</id>
-    <published>2020-05-16T04:38:40.000Z</published>
-    <updated>2020-05-16T04:38:40.871Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/images/20200516003232.jpg" alt="alt"><br><img src="/images/20200516003257.jpg" alt="alt"><br><img src="/images/20200516003257.jpg" alt="alt"></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;img src=&quot;/images/20200516003232.jpg&quot; alt=&quot;alt&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/20200516003257.jpg&quot; alt=&quot;alt&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/20200516003257.
-      
-    
-    </summary>
-    
-    
-      <category term="photograph" scheme="http://davyc0705.github.io/categories/photograph/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test2</title>
-    <link href="http://davyc0705.github.io/2020/05/15/test2/"/>
-    <id>http://davyc0705.github.io/2020/05/15/test2/</id>
-    <published>2020-05-16T03:24:48.000Z</published>
-    <updated>2020-05-16T03:24:48.138Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="优化测试" scheme="http://davyc0705.github.io/categories/%E4%BC%98%E5%8C%96%E6%B5%8B%E8%AF%95/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test1</title>
-    <link href="http://davyc0705.github.io/2020/05/15/test1/"/>
-    <id>http://davyc0705.github.io/2020/05/15/test1/</id>
-    <published>2020-05-16T03:24:04.000Z</published>
-    <updated>2020-05-16T03:24:04.674Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="优化测试" scheme="http://davyc0705.github.io/categories/%E4%BC%98%E5%8C%96%E6%B5%8B%E8%AF%95/"/>
     
     
   </entry>
