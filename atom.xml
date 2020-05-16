@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://davyc0705.github.io/"/>
-  <updated>2020-05-16T03:24:48.138Z</updated>
+  <updated>2020-05-16T04:49:06.621Z</updated>
   <id>http://davyc0705.github.io/</id>
   
   <author>
@@ -15,6 +15,56 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>隔离安娜堡</title>
+    <link href="http://davyc0705.github.io/2020/05/16/202005166/"/>
+    <id>http://davyc0705.github.io/2020/05/16/202005166/</id>
+    <published>2020-05-16T04:49:06.000Z</published>
+    <updated>2020-05-16T04:49:06.621Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/.io//20200516003232.jpg" alt></p><p><img src="/.io//20200516003257.jpg" alt></p><p><img src="/.io//20200516003303.jpg" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/.io//20200516003232.jpg&quot; alt&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/.io//20200516003257.jpg&quot; alt&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/.io//20200516003303.jpg&quot; alt&gt;&lt;
+      
+    
+    </summary>
+    
+    
+      <category term="Photograph" scheme="http://davyc0705.github.io/categories/Photograph/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>隔离安娜堡</title>
+    <link href="http://davyc0705.github.io/2020/05/16/20200514/"/>
+    <id>http://davyc0705.github.io/2020/05/16/20200514/</id>
+    <published>2020-05-16T04:38:40.000Z</published>
+    <updated>2020-05-16T04:38:40.871Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/20200516003232.jpg" alt="alt"><br><img src="/images/20200516003257.jpg" alt="alt"><br><img src="/images/20200516003257.jpg" alt="alt"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/images/20200516003232.jpg&quot; alt=&quot;alt&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/20200516003257.jpg&quot; alt=&quot;alt&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/20200516003257.
+      
+    
+    </summary>
+    
+    
+      <category term="photograph" scheme="http://davyc0705.github.io/categories/photograph/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>test2</title>
